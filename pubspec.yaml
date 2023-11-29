@@ -1,0 +1,24 @@
+name: latihan_appwrite
+version: 0.1.0
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.2.1 <4.0.0'
+
+dependencies: 
+  appwrite: ^11.0.1
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.22.0
+  firebase_auth: ^4.14.0
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
